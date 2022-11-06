@@ -1,3 +1,5 @@
 Hello world welcome to my YouTube Channel.
 
 This is demo repo for Intro to GitHub.dev workshop.
+
+This is a test run for the event Intro to GitHub with GitHub dot dev.
