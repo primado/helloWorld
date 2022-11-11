@@ -5,3 +5,5 @@ This is demo repo for Intro to GitHub.dev workshop.
 This is a test run for the event Intro to GitHub with GitHub dot dev.
 
 Good evening, this is a test run for the event.
+
+This is another feature from the test run 003
